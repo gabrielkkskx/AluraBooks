@@ -3,6 +3,8 @@
 :root{
     --background: #ebecee;
     --branco:#fff;
+    --laranja: #EB9B00;
+    --degrade-azul: linear-gradient(97.54deg, #002F52 35.49%, #326589 156.37%);
 }
 
 body{
