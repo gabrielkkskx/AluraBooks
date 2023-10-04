@@ -1,5 +1,8 @@
 .banner{
-    background-color: var(--degrade-azul);
+    background: var(--degrade-azul);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
