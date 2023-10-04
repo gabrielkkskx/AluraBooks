@@ -1,8 +1,6 @@
 .banner{
-    background: var(--degrade-azul);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    background:
+    linear-gradient(97.54deg, #002F52 35.49%, #326589 156.37%);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
