@@ -67,7 +67,9 @@
 
 .botoes-ancora{
     background-color: var(--laranja);
-    padding: 1em 2em;
+    width: 93px;
+    height: 15px;
+    padding: 1em 2.2em;
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
