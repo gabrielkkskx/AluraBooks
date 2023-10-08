@@ -73,5 +73,5 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
-    box-shadow: 4px 4px 0 #black;
+    box-shadow: 4px 4px 0 var(--preto);
 }
