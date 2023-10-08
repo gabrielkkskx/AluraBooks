@@ -73,5 +73,5 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
-    box-shadow: 3px 3px 0 var(--azul);
+    box-shadow: 4px 4px 0 #black;
 }
