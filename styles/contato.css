@@ -43,8 +43,13 @@
         align-items: center;
     }
 
+    .contato-titulo{
+        font-size: 24px;
+    }
+
     .contato-descrição{
         margin-right: 1em;
+        width: 30%;
     }
 
     .contato-email{
