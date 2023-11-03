@@ -58,18 +58,18 @@
     display: none;
 }
 
-@media screen and (min-width: 1024){
+@media screen and (min-width: 1024) {
     .container-titulo,
-    .container-titulo-negrito{
+    .container-titulo-negrito {
         font-family: var(--fonte-secundaria);
         font-size: 30px;
     }
 
-    .container-titulo{
-        font-weight: 700;
+    .container-titulo {
+        font-weight: 400;
     }
 
-    .container-titulo-negrito{
+    .container-titulo-negrito {
         font-weight: 700;
     }
 }
