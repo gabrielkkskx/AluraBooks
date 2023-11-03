@@ -95,4 +95,9 @@
         display: block;
         top: 60%;
     }
+
+    .card{
+        width: 50%;
+        margin: 2em auto;
+    }
 }
