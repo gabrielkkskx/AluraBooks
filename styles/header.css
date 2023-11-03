@@ -83,12 +83,12 @@
         display: flex;
     }
 
-    .opcoes-item{
+    .opcoes-item {
         padding: 0 1em;
         text-transform: uppercase;
     }
 
-    .opcoes-link{
+    .opcoes-link {
         text-decoration: none;
     }
 
