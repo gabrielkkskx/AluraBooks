@@ -11,6 +11,9 @@ hr {
     .rodape{
         display: flex;
         justify-content: space-around;
+    }
+
+    .lista-rodape-link{
         text-decoration: none;
     }
 }
