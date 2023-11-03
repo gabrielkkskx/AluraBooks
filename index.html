@@ -210,5 +210,18 @@
         <p class="contato-texto">Atualizações de e-books, novos livros, promoções e outros.</p>
         <input type="email" placeholder="Cadastre seu e-mail" class="contato-email">
     </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script>
+        const swiper = new Swiper('.swiper', {
+            spaceBetween: 10,
+            slidesPerView: 3,
+            pagination: {
+                el: '.swiper-pagination',
+                type: 'bullets',
+            },
+        });
+    </script>
+
 </body>
 </html>
