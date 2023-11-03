@@ -110,4 +110,8 @@
         padding-left: 1em;
     }
 
+    .opcoes-botao:checked ~ .lista-menu{
+        display: block;
+    }
+
 }
