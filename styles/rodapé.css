@@ -17,4 +17,9 @@ hr {
         text-decoration: none;
         color: var(--preto);
     }
+
+    .lista-rodape-item{
+        display: flex;
+        align-items: center;
+    }
 }
