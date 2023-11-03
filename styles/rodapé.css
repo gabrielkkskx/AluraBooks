@@ -15,5 +15,6 @@ hr {
 
     .lista-rodape-link{
         text-decoration: none;
+        color: var(--preto);
     }
 }
