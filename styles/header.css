@@ -88,6 +88,8 @@
         text-transform: uppercase;
     }
 
-    
+    .opcoes-link{
+        text-decoration: none;
+    }
 
 }
