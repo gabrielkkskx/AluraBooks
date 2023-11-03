@@ -90,6 +90,7 @@
 
     .opcoes-link {
         text-decoration: none;
+        color: var(--preto);
     }
 
 }
