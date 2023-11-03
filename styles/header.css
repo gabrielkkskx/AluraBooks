@@ -105,4 +105,8 @@
         display: none;
     }
 
+    .espaçamento-logo{
+        padding-left: 1em;
+    }
+
 }
