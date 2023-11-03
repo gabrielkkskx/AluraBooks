@@ -15,11 +15,13 @@ hr {
 
     .lista-rodape-link{
         text-decoration: none;
-        color: var(--preto);
+        color: var(--cinza);
+        margin: 0.6em;
     }
 
     .lista-rodape-item{
         display: flex;
         align-items: center;
+        margin-left: 0.6em;
     }
 }
