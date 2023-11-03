@@ -65,11 +65,11 @@
         font-size: 30px;
     }
 
-    .container-titulo {
+    .container_titulo {
         font-weight: 400;
     }
 
-    .container-titulo-negrito {
+    .container_titulo--negrito {
         font-weight: 700;
     }
 }
