@@ -125,11 +125,9 @@
     .container-link{
         display: flex;
         align-items: center;
-        gap: 61px;
         text-decoration: none;
         color: var(--preto);
-        font-size: 20px;
-
+        font-size: 20px;        
     }
 
     .cabecalho{
