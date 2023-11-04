@@ -135,7 +135,11 @@
     }
 
     .opcoes{
-        margin-right: auto;
-        align-items: center;
+        padding: 0 1em;
+        text-transform: uppercase;
+        display: flex;
+        width: 140px;
+        align-items: flex-start;
+        gap: 10px;
     }
 }
