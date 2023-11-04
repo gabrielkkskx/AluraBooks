@@ -90,12 +90,6 @@
         width: 80%;
     }
 
-    .swiper-button-prev,
-    .swiper-button-next{
-        display: block;
-        top: 60%;
-    }
-
     .card{
         width: 60%;
         margin: 2em auto;
