@@ -66,6 +66,10 @@
     display: none;
 }
 
+.container-link{
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
    
     .container__titulo,
