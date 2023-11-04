@@ -66,6 +66,10 @@
     display: none;
 }
 
+.container-texto{
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
    
     .container__titulo,
@@ -128,6 +132,10 @@
         text-decoration: none;
         color: var(--preto);
         font-size: 20px;        
+    }
+
+    .container-texto{
+        display: block;
     }
 
     .cabecalho{
