@@ -96,6 +96,10 @@
     }
 }
 
+.container-carrossel{
+    gap: auto;
+}
+
 @media screen and (min-width: 1728px){
     .container-carrossel{
         display: flex;
