@@ -52,7 +52,7 @@
 
 @media screen and (min-width: 1728px){
     .banner-pesquisa{
-        width: 35%;
+        width: 45%;
     }
 
     .banner-pesquisa::placeholder{
