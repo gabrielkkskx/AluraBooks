@@ -101,6 +101,7 @@
         display: flex;
         margin: 0 20vw 3em 20vw;
         align-items: center;
+        gap: auto;
     }
 
     .swiper-pagination{
@@ -108,7 +109,7 @@
     }
 
     .swiper{
-        width: 60%;
+        width: 50%;
     }
 
     .descricao-titulo{
