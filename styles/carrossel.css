@@ -96,16 +96,11 @@
     }
 }
 
-.container-carrossel{
-    gap: 700px;
-}
-
 @media screen and (min-width: 1728px){
     .container-carrossel{
         display: flex;
         margin: 0 20vw 3em 20vw;
         align-items: center;
-        gap: auto;
     }
 
     .swiper-pagination{
