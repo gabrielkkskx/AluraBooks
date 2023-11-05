@@ -97,7 +97,7 @@
 }
 
 .container-carrossel{
-    gap: 100px;
+    gap: 500px;
 }
 
 @media screen and (min-width: 1728px){
