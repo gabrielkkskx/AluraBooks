@@ -31,3 +31,7 @@ body{
   padding: 24px;
   color: #FFF;
 }
+
+.nick {
+  color: var(--laranja);
+}
