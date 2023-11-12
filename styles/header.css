@@ -7,6 +7,14 @@
     display: inline-block;
 }
 
+.container-botao:checked~.container-rotulo>.menu-hamburguer{
+    background-image: url(../img/Menu\ Branco.svg);
+}
+
+.container-botao:checked~.container-rotulo{
+    background: var(--degrade-azul);
+}
+
 .cabecalho{
     background-color: var(--branco);
     display: flex;
