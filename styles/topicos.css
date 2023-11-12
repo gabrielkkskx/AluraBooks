@@ -35,6 +35,7 @@
 
 .topicos-link:hover{
     letter-spacing: 0.15em;
+    background: var(--degrade);
 }
 
 @media screen and (min-width: 1024px){
