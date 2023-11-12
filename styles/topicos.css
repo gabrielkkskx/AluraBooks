@@ -30,6 +30,11 @@
     font-weight: 700;
     box-shadow: 5px 5px 10px var(--preto);
     border-radius: 3px;
+    transition: 0.5s;
+}
+
+.topicos-link:hover{
+    letter-spacing: 0.25em;
 }
 
 @media screen and (min-width: 1024px){
