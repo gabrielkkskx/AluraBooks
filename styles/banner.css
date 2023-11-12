@@ -1,6 +1,6 @@
 .banner{
     background: rgb(72,2,97);
-    background: linear-gradient(90deg, rgba(72,2,97,1) 0%, rgba(130,8,173,1) 100%);
+    background: linear-gradient(90deg, rgba(72,2,97,1) 0%, rgba(128,10,91,1) 50%, rgba(127,7,170,1) 100%);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
