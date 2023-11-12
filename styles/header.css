@@ -142,6 +142,9 @@
 
     .lista-menu-item:hover{
         background: var(--degrade-azul);
+    }
+
+    .lista-menu-item:hover>.lista-menu-link{
         color: var(--branco);
     }
 
