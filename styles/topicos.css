@@ -36,6 +36,14 @@
 .topicos-link:hover{
     letter-spacing: 0.15em;
     background: var(--degrade);
+    box-shadow: 0 0 35px var(--degrade);
+}
+
+.topicos-link::before{
+    content: '';
+    position: absolute;
+    inset: 2px;
+    background: var(--degrade);
 }
 
 @media screen and (min-width: 1024px){
