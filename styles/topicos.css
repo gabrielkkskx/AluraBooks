@@ -39,12 +39,6 @@
     box-shadow: 0 0 35px var(--degrade);
 }
 
-.topicos-link:before{
-    content: '';
-    inset: 2px;
-    background: var(--degrade);
-}
-
 @media screen and (min-width: 1024px){
     .topicos-titulo{
         font-size: 24px;
