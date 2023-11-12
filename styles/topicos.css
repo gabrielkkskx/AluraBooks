@@ -39,8 +39,9 @@
     box-shadow: 0 0 35px var(--degrade);
 }
 
-.topicos-link::before{
+.topicos-link:before{
     content: '';
+    position: absolute;
     inset: 2px;
     background: var(--degrade);
 }
