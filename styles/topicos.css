@@ -41,7 +41,6 @@
 
 .topicos-link:before{
     content: '';
-    position: absolute;
     inset: 2px;
     background: var(--degrade);
 }
