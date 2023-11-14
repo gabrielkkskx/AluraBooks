@@ -78,7 +78,9 @@
 }
 
 .botoes-ancora:hover{
-    background-color: var(--degrade);
+    background: var(--degrade);
+    letter-spacing: 0.10em;
+    box-shadow: 5px 5px 10px var(--degrade);
 }
 
 @media screen and (min-width: 1024px){
