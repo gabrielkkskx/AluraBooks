@@ -77,10 +77,15 @@
     border-radius: 7px;
 }
 
-.botoes-ancora:hover{
-    background: var(--degrade);
-    box-shadow: 5px 5px 10px var(--degrade);
-    letter-spacing: 0.10em;
+.botoes-ancora::before{
+    width: 0;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+}
+
+.botoes-ancora:hover::before{
+    width: 100%;
 }
 
 @media screen and (min-width: 1024px){
