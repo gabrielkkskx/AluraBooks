@@ -143,6 +143,7 @@
 
     .lista-menu-item:hover{
         background: var(--degrade-azul);
+        border-bottom: 1px solid var(--preto);
     }
 
     .lista-menu-item:hover>.lista-menu-link{
