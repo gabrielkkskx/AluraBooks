@@ -11,10 +11,6 @@ hr {
     display: none;
 }
 
-.rodape:hover{
-    color: var(--azul-hover);
-}
-
 @media screen and (min-width: 1024px){
     .rodape{
         display: flex;
@@ -46,6 +42,10 @@ hr {
         font-size: 24px;
         color: var(--preto);
     }
+
+    .rodape:hover{
+        color: var(--azul-hover);
+    }
 }
 
 @media screen and (min-width: 1728px){
@@ -56,5 +56,9 @@ hr {
 
     .rodape{
         padding: 3em 0;
+    }
+
+    .rodape:hover{
+        color: var(--azul-hover);
     }
 }
