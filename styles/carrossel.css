@@ -75,28 +75,12 @@
     text-decoration: none;
     box-shadow: 5px 5px 10px var(--preto);
     border-radius: 7px;
-    position: relative;
-    justify-content: center;
-    overflow: hidden;
 }
 
-.botao::before{
-    content: "";
-    width: 100%;
-    height: 100%;
-    position: absolute;
+.botoes-ancora:hover{
     background: var(--degrade);
-    z-index: -1;
-}
-
-.botoes-ancora::before{
-    width: 0;
-    top: 0;
-    left: 0;
-}
-
-.botoes-ancora:hover::before{
-    width: 100%;
+    transition: .5s;
+    box-shadow: 5px 5px 10px var(--degrade);
 }
 
 @media screen and (min-width: 1024px){
