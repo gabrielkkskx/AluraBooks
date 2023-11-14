@@ -1,6 +1,5 @@
 .topicos{
-    background: rgb(72,2,97);
-    background: linear-gradient(90deg, rgba(72,2,97,1) 0%, rgba(96,11,70,1) 50%, rgba(99,6,133,1) 100%);
+    background: var(--degrade-azul);
     text-align: center;
     padding: 1.5em 0;
 }
