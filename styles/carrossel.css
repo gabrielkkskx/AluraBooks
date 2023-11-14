@@ -89,6 +89,16 @@
     z-index: -1;
 }
 
+.botoes-ancora::before{
+    width: 0;
+    top: 0;
+    left: 0;
+}
+
+.botoes-ancora:hover::before{
+    width: 100%;
+}
+
 @media screen and (min-width: 1024px){
     .carrossel-titulo{
         font-size: 26px;
