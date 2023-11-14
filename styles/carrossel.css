@@ -79,7 +79,6 @@
 
 .botoes-ancora:hover{
     background: var(--degrade);
-    margin: 20px auto;
     transition: 500ms linear;
 }
 
