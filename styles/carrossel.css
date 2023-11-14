@@ -79,7 +79,7 @@
 
 .botoes-ancora:hover{
     background: var(--degrade);
-    transition: .5s;
+    transition: width .5s;
     box-shadow: 5px 5px 10px var(--degrade);
 }
 
