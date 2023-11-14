@@ -36,6 +36,10 @@
     background-position: 0.1em;
 }
 
+.contato-email:hover::placeholder{
+    background: var(--degrade);
+}
+
 @media screen and (min-width: 1024px){
     .contato{
         display: flex;
