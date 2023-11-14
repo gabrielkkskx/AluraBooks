@@ -65,16 +65,26 @@
     margin: 0.5em;
 }
 
-.botoes-ancora::before{
-    width: 0;
-    height: 100%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.botoes-ancora{
+    background-color: var(--laranja);
+    width: 93px;
+    height: 15px;
+    padding: 1em 2.2em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+    box-shadow: 5px 5px 10px var(--preto);
+    border-radius: 7px;
+    position: relative;
+    justify-content: center;
 }
 
-.botoes-ancora:hover::before{
+.botoes-ancora::before{
+    content: "";
     width: 100%;
+    height: 100%;
+    position: absolute;
+    background: var(--degrade);
 }
 
 @media screen and (min-width: 1024px){
