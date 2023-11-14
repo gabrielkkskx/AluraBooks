@@ -34,7 +34,7 @@
 
 .topicos-link:hover{
     letter-spacing: 0.15em;
-    background: var(--degrade);
+    background: var(--degrade-topicos);
     box-shadow: 0 0 35px var(--degrade);
 }
 

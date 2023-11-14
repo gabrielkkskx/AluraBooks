@@ -77,6 +77,10 @@
     border-radius: 7px;
 }
 
+.botoes-ancora:hover{
+    background-color: var(--degrade);
+}
+
 @media screen and (min-width: 1024px){
     .carrossel-titulo{
         font-size: 26px;
