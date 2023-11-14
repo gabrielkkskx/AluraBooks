@@ -150,6 +150,11 @@
         text-decoration: none;
     }
 
+    .opcoes-link:hover{
+        color: var(--branco);
+        border-bottom: 1px solid var(--branco);
+    }
+
 }
 
 @media screen and (min-width: 1728px){
