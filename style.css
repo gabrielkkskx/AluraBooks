@@ -18,7 +18,7 @@
     --cinza-secundario: #858585;
     --degrade: linear-gradient(90deg, rgba(45,103,33,1) 0%, rgba(121,10,115,1) 100%);
     --degrade-topicos: linear-gradient(180deg, #EB9B00 0%, #06106D 100%);
-    --azul-hover: #440675;
+    --azul-hover: #580698;
 }
 
 body{
