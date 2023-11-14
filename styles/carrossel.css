@@ -80,12 +80,13 @@
     overflow: hidden;
 }
 
-.botoes-ancora::before{
+.botao::before{
     content: "";
     width: 100%;
     height: 100%;
     position: absolute;
     background: var(--degrade);
+    z-index: -1;
 }
 
 @media screen and (min-width: 1024px){
