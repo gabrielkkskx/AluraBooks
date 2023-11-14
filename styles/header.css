@@ -151,8 +151,7 @@
     }
 
     .opcoes-link:hover{
-        color: var(--branco);
-        border-bottom: 1px solid var(--branco);
+        border-bottom: 1px solid var(--preto);
     }
 
 }
