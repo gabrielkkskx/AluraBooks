@@ -65,18 +65,6 @@
     margin: 0.5em;
 }
 
-.botoes-ancora{
-    background-color: var(--laranja);
-    width: 93px;
-    height: 15px;
-    padding: 1em 2.2em;
-    color: var(--branco);
-    font-weight: 700;
-    text-decoration: none;
-    box-shadow: 5px 5px 10px var(--preto);
-    border-radius: 7px;
-}
-
 .botoes-ancora::before{
     width: 0;
     height: 100%;
