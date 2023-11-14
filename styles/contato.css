@@ -14,11 +14,13 @@
 .contato-titulo{
     font-size: 18px;
     font-weight: 500;
+    cursor: default;
 }
 
 .contato-texto{
     font-weight: 300;
     margin: 1em 0;
+    cursor: default;
 }
 
 .contato-email{

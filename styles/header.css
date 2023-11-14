@@ -103,6 +103,7 @@
     .opcoes-item {
         padding: 0 1em;
         text-transform: uppercase;
+        cursor: pointer;
     }
 
     .opcoes-link {

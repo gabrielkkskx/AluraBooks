@@ -48,6 +48,7 @@
 .descricao-titulo{
     color: var(--laranja);
     font-weight: 700;
+    cursor: default;
 }
 
 .descricao-titulo-livro{
@@ -55,6 +56,7 @@
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
+    cursor: default;
 }
 
 .descricao-texto{

@@ -8,11 +8,13 @@
 .banner-titulo{
     font-size: 18px;
     font-weight: 700;
+    cursor: default;
 }
 
 .banner-texto{
     font-weight: 500;
     margin: 1em 0;
+    cursor: default;
 }
 
 .banner-pesquisa{
