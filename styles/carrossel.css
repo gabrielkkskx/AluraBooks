@@ -79,7 +79,7 @@
 
 .botoes-ancora:hover{
     background: var(--degrade);
-    transition: .5s;
+    transition: 1s;
 }
 
 @media screen and (min-width: 1024px){
